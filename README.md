@@ -1,2 +1,7 @@
-# tie-training
-spurious correlations and tie-training
+# Spurious Correlation Learning and Tie Training
+
+## Experiment
+
+- Log-linear
+- Nonlinear
+- LLM
